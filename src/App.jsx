@@ -15,7 +15,7 @@ export default function App(){
             <Balance />
             <IncomeExpenses />
             <TransactionList />
-            <AddTransaction />  
+            <AddTransaction />
         </GlobalProvider>
     )
 }
